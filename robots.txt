@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ShngJZ.github.io/ShngJZ.github.io/sitemap.xml
+Sitemap: https://ShngJZ.github.io/sitemap.xml
