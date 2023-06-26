@@ -1,26 +1,22 @@
 ---
-layout: about
-title: about
+layout: page
+title:  
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+years: [2023, 2020]
+nav: false
+nav_order: 0
 ---
+<font size="6.5"> About Me </font>
+I am Shengjie Zhu, currently pursuing a Ph.D. at Michigan State University under the supervision of Dr. Xiaoming Liu. In 2017, I completed my B.E. degree at SouthEast University. 
+My research interest lies in 3D sensing. I deliver algorithms in estimating intrinsic, correspondence, depth, and pose from few images.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am on track to graduate in Winter 2023 and am actively seeking full-time employment opportunities!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+<div class="publications">
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
+{% endfor %}
+</div>
