@@ -12,7 +12,7 @@ My research focuses on 3D perception, including intrinsic, correspondence, depth
 
 I am on track to graduate in Winter 2023 and am actively seeking full-time employment opportunities!
 
-[[Resume](https://drive.google.com/file/d/1-CJsCbRvgJIiBdXqa1BiGTNqTG-jVue9/view?usp=sharing)] [[Google Scholar](https://scholar.google.com/citations?user=4hHEXZkAAAAJ&hl=en)] [[Linkedin](https://www.linkedin.com/in/shengjie-zhu-b71945159/)] [[Github](https://github.com/ShngJZ)] 
+[[Resume](https://drive.google.com/file/d/1LjS_QNgXtsIpSiFYRNOSYRatWLU34qOs/view?usp=drive_link)] [[Google Scholar](https://scholar.google.com/citations?user=4hHEXZkAAAAJ&hl=en)] [[Linkedin](https://www.linkedin.com/in/shengjie-zhu-b71945159/)] [[Github](https://github.com/ShngJZ)] 
 
 <div class="publications">
 {%- for y in page.years %}
