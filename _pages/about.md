@@ -13,7 +13,7 @@ NeRF, structure-from-motion, correspondence estimation, camera pose estimation, 
 
 I am actively seeking full-time employment opportunities!
 
-[[Resume](https://drive.google.com/file/d/1vgmuRdeieJPBahXkBEE3aA9UkQnxxkme/view?usp=sharing)] [[Google Scholar](https://scholar.google.com/citations?user=4hHEXZkAAAAJ&hl=en)] [[Linkedin](https://www.linkedin.com/in/shengjie-zhu-b71945159/)] [[Github](https://github.com/ShngJZ)] 
+[[Resume](https://shngjz.github.io/assets/pdf/Shengjie_Zhu_Resume.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=4hHEXZkAAAAJ&hl=en)] [[Linkedin](https://www.linkedin.com/in/shengjie-zhu-b71945159/)] [[Github](https://github.com/ShngJZ)] 
 
 <div class="publications">
 {%- for y in page.years %}
