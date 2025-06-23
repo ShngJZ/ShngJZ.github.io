@@ -5,13 +5,17 @@ permalink: /
 years: [2024, 2023, 2020]
 nav: false
 nav_order: 0
+fontawesome_css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
 ---
 <font size="6.5"> Biography </font>
-I am Shengjie Zhu, an Applied Scientist at Amazon.
-I earned my Ph.D. at Michigan State University supervised by Professor Xiaoming Liu. 
-My primary research interests lie in 3D Vision, encompassing monocular / multi-view depth estimation, camera calibration, image correspondence estimation, and two-view / multi-view camera pose estimation.
+Shengjie Zhu is an Applied Scientist at Amazon Ring AI team.
+He earned his Ph.D. at Michigan State University under the supervision of Professor [Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html). 
+His primary research interests lie in 3D Vision, encompassing depth estimation, camera calibration, image correspondence estimation, and two-view/multi-view camera pose estimation.
 
-[[Resume](https://shngjz.github.io/assets/pdf/Shengjie_Zhu_Resume.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=4hHEXZkAAAAJ&hl=en)] [[Linkedin](https://www.linkedin.com/in/shengjie-zhu-b71945159/)] [[Github](https://github.com/ShngJZ)] 
+[<i class="fas fa-file-pdf"></i> Resume](https://shngjz.github.io/assets/pdf/Shengjie_Zhu_Resume.pdf) 
+[<i class="fas fa-graduation-cap"></i> Google Scholar](https://scholar.google.com/citations?user=4hHEXZkAAAAJ&hl=en) 
+[<i class="fab fa-linkedin"></i> Linkedin](https://www.linkedin.com/in/shengjie-zhu-b71945159/) 
+[<i class="fab fa-github"></i> Github](https://github.com/ShngJZ)
 
 <div class="publications">
 {%- for y in page.years %}
