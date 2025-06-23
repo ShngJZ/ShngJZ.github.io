@@ -6,16 +6,15 @@ years: [2024, 2023, 2020]
 nav: false
 nav_order: 0
 fontawesome_css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
-
-profile:
-  align: right
-  image: /assets/img/shngjz_selfie.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Applied Scientist at Amazon Ring AI</p>
-    <p>Ph.D. from Michigan State University</p>
 ---
-<font size="6.5"> Biography </font>
+
+<div style="float: right; margin-left: 20px; text-align: center;">
+  <img src="/assets/img/shngjz_selfie.jpg" alt="Shengjie Zhu" style="max-width: 200px; margin-bottom: 10px;">
+  <p style="margin: 5px 0;">Applied Scientist at Amazon Ring AI</p>
+  <p style="margin: 5px 0;">Ph.D. from Michigan State University</p>
+</div>
+
+<font size="6.5"> About Me </font>
 Shengjie Zhu is an Applied Scientist at Amazon Ring AI team.
 He earned his Ph.D. at Michigan State University under the supervision of Professor [Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html). 
 His primary research interests lie in 3D Vision, encompassing depth estimation, camera calibration, image correspondence estimation, and two-view/multi-view camera pose estimation.
