@@ -9,10 +9,11 @@ fontawesome_css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/a
 
 profile:
   align: right
-  image: shngjz_selfie.jpg
+  image: /assets/img/shngjz_selfie.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p></p>
+    <p>Applied Scientist at Amazon Ring AI</p>
+    <p>Ph.D. from Michigan State University</p>
 ---
 <font size="6.5"> Biography </font>
 Shengjie Zhu is an Applied Scientist at Amazon Ring AI team.
