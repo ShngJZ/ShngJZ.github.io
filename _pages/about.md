@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  
+title:
 permalink: /
 years: [2024, 2023, 2020]
 nav: false
@@ -11,6 +11,8 @@ profile:
   align: right
   image: shngjz_selfie.jpg
   image_circular: false # crops the image to make it circular
+  more_info: >
+    <p></p>
 ---
 <font size="6.5"> Biography </font>
 Shengjie Zhu is an Applied Scientist at Amazon Ring AI team.
