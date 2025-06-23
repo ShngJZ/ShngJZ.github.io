@@ -9,7 +9,7 @@ fontawesome_css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/a
 ---
 
 <div style="float: right; margin-left: 20px; text-align: center;">
-  <img src="/assets/img/shngjz_selfie.jpg" alt="Shengjie Zhu" style="max-width: 200px; margin-bottom: 10px;">
+  <img src="/assets/img/shngjz_selfie.jpg" alt="Shengjie Zhu" style="max-width: 180px; margin-bottom: 10px;">
 </div>
 
 <font size="6.5"> About Me </font>
