@@ -139,7 +139,19 @@ His primary research interests lie in 3D Vision, encompassing depth estimation, 
         <div class="author">
         
 
-        <em>Shengjie Zhu</em>
+        <em>Shengjie Zhu</em>, Ahmed Abdelkader, Mark J. Matthews, and
+          <span class="more-authors" title="click to view 2 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '2 more authors' ? 'Xiaoming Liu, Wen-Sheng Chu' : '2 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">2 more authors</span>
 </div>
 
         <!-- Journal/Book title and date -->
