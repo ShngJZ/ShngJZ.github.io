@@ -2,7 +2,7 @@
 layout: page
 title:
 permalink: /
-years: [2025, 2024, 2023, 2020]
+years: [2024, 2023, 2020]
 nav: false
 nav_order: 0
 fontawesome_css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
