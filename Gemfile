@@ -1,4 +1,10 @@
 source 'https://rubygems.org'
+# stdlib gems no longer bundled by default in modern Ruby
+gem 'ostruct'
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
+gem 'logger'
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
