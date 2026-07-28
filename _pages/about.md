@@ -14,9 +14,9 @@ fontawesome_css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/a
 
 <font size="6.5"> Biography </font>
 Shengjie Zhu is an Applied Scientist at Amazon Ring AI team. 
+His expertise lies in Spatial AI systems: designing customer-facing agentic front-ends grounded in a 3D-vision backend spanning camera calibration, localization, reconstruction, and Structure-from-Motion.
 He earned his Ph.D. from Michigan State University under the supervision of Professor [Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html).
 His doctoral thesis focuses on recovering 3D structure and motion from image collections.
-His primary research interests are in 3D Vision, including depth estimation, camera calibration, image correspondence estimation, and two-view/multi-view camera pose estimation.
 
 <span style="margin-right: 20px">[<i class="fas fa-file-pdf"></i> Resume](https://shngjz.github.io/assets/pdf/Shengjie_Zhu_Resume.pdf)</span>
 <span style="margin-right: 20px">[<i class="fas fa-graduation-cap"></i> Google Scholar](https://scholar.google.com/citations?user=4hHEXZkAAAAJ&hl=en)</span>
